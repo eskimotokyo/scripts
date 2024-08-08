@@ -22,3 +22,6 @@ sudo apt install docker-ce docker-ce-cli containerd.io
  
 # 显示安装成功的消息
 echo "Docker安装完成！"
+
+docker -v
+
